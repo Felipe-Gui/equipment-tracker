@@ -26,8 +26,9 @@ The application leverages Google Maps to display the equipment’s locations on 
 
 ## Dependencies docs
 
-1. [Sass](https://sass-lang.com/documentation)
-2. [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-3. [Pinia](https://pinia.vuejs.org/)
-4. [FontAwsome](https://fontawesome.com/)
-5. [vue3-google-map](https://www.npmjs.com/package/vue3-google-map)
+1. [Vue3](https://vuejs.org/)
+2. [Sass](https://sass-lang.com/documentation)
+3. [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+4. [Pinia](https://pinia.vuejs.org/)
+5. [FontAwsome](https://fontawesome.com/)
+6. [vue3-google-map](https://www.npmjs.com/package/vue3-google-map)
