@@ -2,7 +2,7 @@
 
 ## Demo
 
-![](https://imgur.com/ad4QAsp.gif)
+![](https://imgur.com/kFGmTi3.gif)
 
 ## Description
 
